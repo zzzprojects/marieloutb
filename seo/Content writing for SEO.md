@@ -17,7 +17,7 @@ They need to be created with search engines always in mind but don’t forget th
 
 Readability affect the reader actions. A hard to follow, badly written pages will have a high bounce-rate and bad overall user metrics. Those metrics are looked at closely by search engines for ranking purposes. 
 
-Tips to increase readability
+Tips to increase readability:
 - Use headlines
 - Break long paragraph
 - Use bullet points or list 
