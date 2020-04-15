@@ -23,13 +23,14 @@ It depends on what keywords you are trying to rank for. If you have a lot of com
 ## How to build SEO links? 
 
 Good quality content should attract links in theory but if you want to boost the process then you can do these techniques:
+
 1. Newsworthy content: Keep up with what’s happening on the news and create content related to it. If you can relate your product or service to it, it is a great way to create content like a blog post or an article on your website. Timing is crucial, you must be on top of the news all the time, you need the news to be new so that it will be shared and talked about. If you wait too long the subject can be saturated and people won’t notice your article. 
 2. Link Bait: Link bait content is something written for the sole purpose of attracting links. It is a technique commonly used. Content that is often linked to include:
 	- Guides 
 	- Infographic elements
 	- Tools; calculator, translator, test, quiz, etc. 
 	- Videos / images
-Adding such content is not spam it still need to be relevant and add something interesting to your website. 
+Adding such content is not spam, it still need to be relevant and add something interesting for your website. 
 3. Learn about Competitors: Find out more about your competitor links, you can use a tool like [Serstat] (https://serpstat.com/) or [ahrefs](https://ahrefs.com/) to get insight information about their linking strategy. Then you can use the information obtained to adjust your SEO strategy. 
 4. Ask for it: You can ask around if you know people with websites or blogs that are in the same field as you (or related one) for backlinks as long as it’s not overdone. You can link back to them as well, if it is relevant for your content. 
 5. Blogs: Blogs are a good place to start, you get to answer questions and participate in discussion related to your business and meet possible new clients. You can add a link to your site in a conversation only if it naturally fits.
